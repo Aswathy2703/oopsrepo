@@ -1,3 +1,4 @@
+// Single Inheritance
 package inheritance;
 
 public class Baby_Dog extends Dog{
